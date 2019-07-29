@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Dream Houses</title>
+    <link href="https://clisboa.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://clisboa.github.io/gh-pages" />
+    <updated>2019-07-30T00:01:10+01:00</updated>
+    <author>
+        <name>Sofia Sena Pedro</name>
+    </author>
+    <id>https://clisboa.github.io/gh-pages</id>
+
+    <entry>
+        <title>O começo</title>
+        <author>
+            <name>Sofia Sena Pedro</name>
+        </author>
+        <link href="https://clisboa.github.io/gh-pages/o-comeco.html"/>
+        <id>https://clisboa.github.io/gh-pages/o-comeco.html</id>
+
+        <updated>2019-07-29T23:53:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clisboa.github.io/gh-pages/media/posts/1/header.jpg" alt="" />
+                    🔴🔵 O começo 🔴🔵
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clisboa.github.io/gh-pages/media/posts/1/header.jpg" alt="" />
+                <p><span class="_5mfr"><span class="_6qdm">🔴</span></span><span class="_5mfr"><span class="_6qdm">🔵</span></span></p>
+<p>O começo</p>
+<p><span class="_5mfr"><span class="_6qdm">🔴</span></span><span class="_5mfr"><span class="_6qdm">🔵</span></span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

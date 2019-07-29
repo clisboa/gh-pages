@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dream Houses",
+    "description": "",
+    "home_page_url": "https://clisboa.github.io/gh-pages",
+    "feed_url": "https://clisboa.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sofia Sena Pedro"
+    },
+    "items": [
+        {
+            "id": "https://clisboa.github.io/gh-pages/o-comeco.html",
+            "url": "https://clisboa.github.io/gh-pages/o-comeco.html",
+            "title": "O começo",
+            "summary": "🔴🔵 O começo 🔴🔵",
+            "content_html": "<p><span class=\"_5mfr\"><span class=\"_6qdm\">🔴</span></span><span class=\"_5mfr\"><span class=\"_6qdm\">🔵</span></span></p>\n<p>O começo</p>\n<p><span class=\"_5mfr\"><span class=\"_6qdm\">🔴</span></span><span class=\"_5mfr\"><span class=\"_6qdm\">🔵</span></span></p>",
+            "image": "https://clisboa.github.io/gh-pages/media/posts/1/header.jpg",
+            "author": {
+                "name": "Sofia Sena Pedro"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-29T23:53:24+01:00",
+            "date_modified": "2019-07-29T23:53:24+01:00"
+        }
+    ]
+}
